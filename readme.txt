@@ -1,0 +1,5 @@
+- added cuda
+- changed amount of layers
+- added more epochs
+- added accuracy score
+- saved model is better trained
